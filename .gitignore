@@ -3,7 +3,7 @@
 venv/
 
 # 환경 설정 파일
-config.py
+#config.py
 .env
 
 # Python 캐시
